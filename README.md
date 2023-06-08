@@ -1,2 +1,3 @@
 # ChessGPT
-GPT that can play chess well ... maybe?
+GPT that can play chess well ... maybe.
+
